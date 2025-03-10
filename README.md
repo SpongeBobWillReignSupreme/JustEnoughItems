@@ -6,7 +6,7 @@
 This means:
  * just items and recipes
  * clean API for developers
- * not a coremod – no dependencies other than Forge.
+ * not a coremod – no dependencies other than Forge or Fabric.
 
 ### [JEI Developer Wiki](https://github.com/mezz/JustEnoughItems/wiki)
 
